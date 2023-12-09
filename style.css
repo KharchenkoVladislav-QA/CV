@@ -1,0 +1,58 @@
+html {
+
+background-image: url(https://w.forfun.com/fetch/41/418ce7d79f0bc1973785a97a86d34a81.jpeg);
+
+background-repeat: no-repeat;
+
+background-position: center center;
+
+background-attachment: fixed;
+
+-webkit-background-size: cover;
+
+-moz-background-size: cover;
+
+-o-background-size: cover;
+
+background-size: cover;
+
+}
+body{
+  font-family: Arial;
+  font-size: 30px;
+  color: burlywood;
+  margin-left: 100px;
+}
+header {
+  font-family: Arial;
+  font-size: 30px;
+  color: darkred;
+}
+h2 {
+  font-family: Roboto;
+  font-size: 40px;
+  color: whitesmoke;
+  margin-left: 50px;
+}
+img {
+  border-radius: 30px;
+  margin-left: 50px;
+  }
+  h3 {
+  font-family: Arial;
+  font-size: 25px;
+  color: black;
+  margin-left: 50px;
+}
+  h4 {
+  font-family: Arial;
+  font-size: 20px;
+  color: navajowhite;
+  margin-left: 50px;
+}
+h5 {
+  font-family: Arial;
+  font-size: 25px;
+  color: navajowhite;
+  margin-left: 50px;
+}
